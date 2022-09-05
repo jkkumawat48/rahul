@@ -1,3 +1,5 @@
 git practice krne ke lia konsi commnad ue me le skta hai
 
 function add
+var add
+cont add
